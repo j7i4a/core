@@ -1,0 +1,17 @@
+I:\formweb\GateXml\WindowsWLEDI\bin\Release\WindowsWLEDI.exe
+I:\formweb\GateXml\WindowsWLEDI\bin\Release\WindowsWLEDI.pdb
+I:\formweb\GateXml\WindowsWLEDI\bin\Release\BUL.dll
+I:\formweb\GateXml\WindowsWLEDI\bin\Release\CAL.dll
+I:\formweb\GateXml\WindowsWLEDI\bin\Release\BAL.dll
+I:\formweb\GateXml\WindowsWLEDI\bin\Release\DBL.dll
+I:\formweb\GateXml\WindowsWLEDI\bin\Release\BUL.pdb
+I:\formweb\GateXml\WindowsWLEDI\bin\Release\CAL.pdb
+I:\formweb\GateXml\WindowsWLEDI\bin\Release\BAL.pdb
+I:\formweb\GateXml\WindowsWLEDI\bin\Release\DBL.pdb
+I:\formweb\GateXml\WindowsWLEDI\obj\Release\WindowsWLEDI.csprojResolveAssemblyReference.cache
+I:\formweb\GateXml\WindowsWLEDI\obj\Release\WindowsWLEDI.Form1.resources
+I:\formweb\GateXml\WindowsWLEDI\obj\Release\WindowsWLEDI.Properties.Resources.resources
+I:\formweb\GateXml\WindowsWLEDI\obj\Release\WindowsWLEDI.csproj.GenerateResource.Cache
+I:\formweb\GateXml\WindowsWLEDI\obj\Release\WindowsWLEDI.exe
+I:\formweb\GateXml\WindowsWLEDI\obj\Release\WindowsWLEDI.pdb
+I:\formweb\GateXml\WindowsWLEDI\bin\Release\WindowsWLEDI.exe.config
